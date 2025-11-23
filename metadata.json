@@ -1,0 +1,8 @@
+{
+  "name": "本草宇宙 (Herbal Universe)",
+  "description": "A digital interactive experience center for Traditional Chinese Medicine, blending cultural heritage with modern technology like AR and AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
