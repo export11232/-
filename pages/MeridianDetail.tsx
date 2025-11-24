@@ -40,8 +40,8 @@ const MeridianDetail: React.FC = () => {
                 <div className="w-24 h-2 bg-blue-500/30 rounded"></div>
             </div>
             <div className="absolute bottom-8 left-8">
-                <p className="font-mono text-blue-300 text-sm">> INITIALIZING SENSOR...</p>
-                <p className="font-mono text-green-400 text-sm">> HAND TRACKING ACTIVE</p>
+                <p className="font-mono text-blue-300 text-sm">&gt; INITIALIZING SENSOR...</p>
+                <p className="font-mono text-green-400 text-sm">&gt; HAND TRACKING ACTIVE</p>
             </div>
           </div>
         </div>
